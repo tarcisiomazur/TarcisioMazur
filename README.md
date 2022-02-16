@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Animação](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 <!--
 **tarcisiomazur/TarcisioMazur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
